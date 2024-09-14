@@ -45,7 +45,7 @@ class Button extends StatelessWidget {
                   padding: const EdgeInsets.only(right: 10),
                   child: Image.asset(
                     iconPath!,
-                    width: 24, // Adjust width and height as needed
+                    width: 24, 
                     height: 24,
                   ),
                 ),
